@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         }
         if (diceRoll == 3)
         {
-            img.setImageResource(R.drawable.img3);
+            img.setImageResource(R.drawable.img2);
             imgBtn.setImageResource(R.drawable.button3);
         }
 
